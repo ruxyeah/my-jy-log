@@ -10,7 +10,7 @@ category:
 
 ## 个人信息
 
-- 姓名 茹祥1
+- 姓名 npm run docs:dev
 - 电话
 - 邮箱
 - 毕业时间
