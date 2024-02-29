@@ -1,13 +1,13 @@
 import { defineClientConfig } from "@vuepress/client";
-import { VPLink } from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-shared/lib/client/index.js";
+import { VPLink } from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-shared/lib/client/index.js";
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { defineAutoCatalogIconComponent } from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
-import { GlobalEncrypt, LocalEncrypt } from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import { defineAutoCatalogIconComponent } from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-plugin-auto-catalog/lib/client/index.js"
+import { GlobalEncrypt, LocalEncrypt } from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
+import "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
 
-import "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineAutoCatalogIconComponent(HopeIcon);
 

@@ -1,6 +1,6 @@
 <template><div><h2 id="个人信息" tabindex="-1"><a class="header-anchor" href="#个人信息" aria-hidden="true">#</a> 个人信息</h2>
 <ul>
-<li>姓名 茹祥1</li>
+<li>姓名 npm run docs:dev</li>
 <li>电话</li>
 <li>邮箱</li>
 <li>毕业时间</li>

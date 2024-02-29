@@ -1,13 +1,13 @@
 import { defineClientConfig } from "@vuepress/client";
-import { hasGlobalComponent } from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-shared/lib/client/index.js";
+import { hasGlobalComponent } from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-shared/lib/client/index.js";
 import { h } from "vue";
 
-import { useScriptTag } from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/@vueuse/core/index.mjs";
-import Badge from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import { useScriptTag } from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/@vueuse/core/index.mjs";
+import Badge from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
-import "/System/Volumes/Data/电子书/xfg-dev-tech-blog-master/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "/Users/ruxiang/workspace/rux/my-jy-log/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
