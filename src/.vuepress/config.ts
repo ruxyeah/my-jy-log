@@ -1,8 +1,9 @@
+import { viteBundler } from "@vuepress/bundler-vite";
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  dest: "public",
+  dest: "./dist",
   base: "/",
 
   lang: "zh-CN",
